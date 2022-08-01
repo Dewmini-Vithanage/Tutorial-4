@@ -19,7 +19,10 @@ object q3 {
  }
 
  println(formatNames("Benny")(toUpper(_)))
- println(formatNames("Saman")(toLower(_)))
+ println(formatNames("ni")(toUpper(_))+formatNames("ROSHAN")(toLower(_)))
+ println(formatNames("Saman")(toLower(_)))  
+ println(formatNames("k")(toUpper(_))+formatNames("umar")(toLower(_))+formatNames("a")(toUpper(_)))
+ 
 
   }
 }
